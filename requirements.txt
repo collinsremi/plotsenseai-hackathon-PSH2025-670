@@ -1,6 +1,6 @@
 plotsense
 streamlit
-sklearn
+scikit-learn
 xgboost
 joblib
 pandas
