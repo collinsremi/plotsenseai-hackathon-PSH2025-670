@@ -1,10 +1,7 @@
 plotsense
 streamlit
-warnings
-sklearn
+scikit-learn
 xgboost
-getpass
 joblib
 pandas
 numpy
-os

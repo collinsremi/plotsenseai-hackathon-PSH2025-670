@@ -33,8 +33,8 @@ if page == "Upload Data":
 # ---------------------------
 elif page == "View Saved Plots":
     st.header("🖼️ Explore Saved Plots")
-    image_folder = r"C:\Users\Admin\Documents\plotsense hackaton\PlotSenseAI\hackaton folder\images"
-    explanation_path = r"C:\Users\Admin\Documents\plotsense hackaton\PlotSenseAI\hackaton folder\md_files"
+    image_folder = r"images"
+    explanation_path = r"md_files"
 
 
     tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9 = st.tabs(["📊 Bar Charts", "Histogram", "🥧 Pie Charts", "Bar Chart", "Box Plot", "Pie Chart", "Pie Chart", "🔬 Scatter Plots", "Box Plot"])
@@ -141,7 +141,7 @@ elif page == "Make Prediction":
         o3 = st.number_input("O3", min_value=0.0, max_value=500.0, value=60.0)
 
     if st.button("🔮 Predict AQI"):
-        model = joblib.load(r"C:\Users\Admin\Documents\plotsense hackaton\PlotSenseAI\hackaton folder\model_pipeline.pkl")
+        model = joblib.load(r"model_pipeline.pkl")
         input_data = np.array([[pm25, pm10, no2, so2, co, o3]])
         Class_mapping = {'Good': 0, 
                          'Moderate': 1, 
