@@ -100,21 +100,6 @@ This bridges the gap between **data science analysis** and **real-world decision
 
 ---
 
-## 📝 Setup Instructions  
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/plotsenseai-hackathon-PSH2025-670.git
-cd plotsenseai-hackathon-PSH2025-670
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run Streamlit app
-streamlit run interface.py
-
----
-
 ## 👥 Team Members  
 | Name         | Role                        |
 |-------------|-----------------------------|
@@ -136,4 +121,21 @@ streamlit run interface.py
 
 ## ✨ Acknowledgement  
 This project was built as part of the **Plotsense Hackathon 2025**, showcasing how Plotsense accelerates **EDA, visualization, storytelling, and app deployment** in real-world data science workflows.
+
+## 📝 Setup Instructions  
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/plotsenseai-hackathon-PSH2025-670.git
+cd plotsenseai-hackathon-PSH2025-670
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run Streamlit app
+streamlit run interface.py```
+
+---
+
+
 
