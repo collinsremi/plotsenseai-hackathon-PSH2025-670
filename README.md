@@ -108,13 +108,13 @@ This bridges the gap between **data science analysis** and **real-world decision
 ---
 
 ## 🔗 Social Media  
-- [Twitter/X Post]([https://x.com/your-post-link](https://x.com/DiugwuIzuchukwu/status/1978622714828001734))  
-- [LinkedIn Post]([https://linkedin.com/in/your-profile-or-post-link](https://www.linkedin.com/posts/diugwu-izuchukwu-2977a6286_its-been-3-weeks-of-building-pushing-deploying-activity-7384393398587203584-Yw5A?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEWHSBMB-pkPplnmc1Hq5QY73du73kv2_NE))  
+- [Twitter/X Post](https://x.com/DiugwuIzuchukwu/status/1978622714828001734)
+- [LinkedIn Post](https://www.linkedin.com/posts/diugwu-izuchukwu-2977a6286_its-been-3-weeks-of-building-pushing-deploying-activity-7384393398587203584-Yw5A?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEWHSBMB-pkPplnmc1Hq5QY73du73kv2_NE)
 
 ---
 
 ## 🎥 Demo Video  
-[video Link]([https://youtube.com/your-demo-video-link](https://drive.google.com/file/d/142KcfDuDdpmXrC-Vu-qIuJG6ts_pwPSJ/view?usp=drive_link))  
+[video Link](https://drive.google.com/file/d/142KcfDuDdpmXrC-Vu-qIuJG6ts_pwPSJ/view?usp=drive_link)
 
 
 ---
@@ -136,6 +136,7 @@ pip install -r requirements.txt
 streamlit run interface.py```
 
 ---
+
 
 
 
